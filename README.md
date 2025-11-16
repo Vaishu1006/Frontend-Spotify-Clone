@@ -19,7 +19,9 @@ A **Spotify Web Clone** built with HTML, CSS, and JavaScript. This project repli
 
 - **HTML5** – Semantic structure and accessibility features.
 - **CSS3** – Flexbox, Grid, responsive design, custom styling.
+- **JavaScript** – DOM manipulation, event handling, and audio player functionality.
 - **Font Awesome** – Icons for navigation and player controls.
 - **Google Fonts** – Montserrat font for typography.
+
 
 > ⚠️ No backend functionality yet; this is a **frontend UI clone**.
